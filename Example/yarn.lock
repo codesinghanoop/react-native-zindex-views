@@ -3060,6 +3060,10 @@ react-devtools-core@2.3.1:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-zindex-views@^1.0.2:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-zindex-views/-/react-native-zindex-views-1.0.3.tgz#c6596ff8ef34ed87a7d79cacb6b80565ffbf8961"
+
 react-native@0.46.3:
   version "0.46.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.46.3.tgz#8fe95131143f1d87bd3ac12e73b4523a44ff0ce9"
@@ -3174,11 +3178,10 @@ react-transform-hmr@^1.0.4:
     global "^4.3.0"
     react-proxy "^1.1.7"
 
-react@16.0.0-alpha.12:
-  version "16.0.0-alpha.12"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.0.0-alpha.12.tgz#8c59485281485df319b6f77682d8dd0621c08194"
+react@^16.0.0-alpha.12:
+  version "16.0.0-alpha.13"
+  resolved "https://registry.yarnpkg.com/react/-/react-16.0.0-alpha.13.tgz#de37e035b06283a15cfb916c6943b9b066b25de0"
   dependencies:
-    create-react-class "^15.5.2"
     fbjs "^0.8.9"
     loose-envify "^1.1.0"
     object-assign "^4.1.0"

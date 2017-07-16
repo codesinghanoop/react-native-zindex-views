@@ -23,13 +23,6 @@ function Size(width, height) {
 
 export default class arrowComponent extends Component {
 
-    static PropTypes = {
-      isvisible: PropTypes.bool,
-      contentSize: PropTypes.object,
-      belowWhichViewDimensions: PropTypes.object,
-      displayArea: PropTypes.object 
-    }
-
     constructor(props)
     {
         super(props)
