@@ -7,7 +7,7 @@ Installation command:
        npm install react-native-zindex-views --save      
 ----------    
 
-![Alt Text](https://j.gifs.com/DRv0k5.gif)
+![Alt Text](https://j.gifs.com/LgKr5g.gif)
 
  ----------
 
