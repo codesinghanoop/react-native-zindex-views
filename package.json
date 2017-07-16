@@ -1,6 +1,6 @@
 {
   "name": "react-native-zindex-views",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Integrate zindexed view below desired view. The zindexed view will appear to be as a popover component.",
   "main": "index.js",
   "scripts": {
