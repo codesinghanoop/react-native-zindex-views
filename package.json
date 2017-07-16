@@ -1,0 +1,33 @@
+{
+  "name": "react-native-zindex-views",
+  "version": "1.0.0",
+  "description": "Integrate zindexed view below desired view. The zindexed view will appear to be as a popover component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesinghanoop/react-native-zindex-views.git"
+  },
+  "keywords": [
+    "react-native",
+    "zIndex",
+    "android",
+    "iOS",
+    "absolute",
+    "view",
+    "popover",
+    "menu",
+    "children",
+    "view",
+    "coordinate",
+    "points"
+  ],
+  "author": "Anoop Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesinghanoop/react-native-zindex-views/issues"
+  },
+  "homepage": "https://github.com/codesinghanoop/react-native-zindex-views#readme"
+}
